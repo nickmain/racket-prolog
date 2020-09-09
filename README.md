@@ -1,5 +1,5 @@
-Anaphor Prolog
-==============
+Racket Prolog
+=============
 
 A dialect of Prolog for building interactive content.
 
